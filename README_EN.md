@@ -35,10 +35,10 @@ You can write other details by reload tab
 # config
 ```
 Fortnite
-email                     : Email address for bot account. You can set multiple by split in ,
-password                  : Password for bot account. You can set multiple by split in ,
-owner                     : Owner's name or ID
-platform                  : Bot's platform. See below
+email                     : dindogilie@gmail.com
+password                  : popularmmos1
+owner                     : isimp4Aura
+platform                  : AND
 cid                       : Bot's defauld outfit ID
 bid                       : Bot's defauld back bling ID
 pickaxe_id                : Bot's defauld harvesting tool ID
